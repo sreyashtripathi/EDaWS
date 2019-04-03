@@ -44,3 +44,5 @@ For the current prototype design we are using a Raspberry Pi 2 model B connected
 3. Azure Mobile Services – this is used by the client app to get data from the Azure SQL database.
 
 To sense anomalous behavior of a machine component and to check variance in the trend of the machine’s behavioral data collected by the sensor we will employ a machine learning algorithm, again deployed on Azure which will take data from the Raspberry Pi as the input and will determine whether the incoming data is within the acceptable domain in real time.
+
+Please Note that this Project is Currently Offline.
